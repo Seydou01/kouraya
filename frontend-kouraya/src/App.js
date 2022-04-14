@@ -1,5 +1,6 @@
 import './App.css';
-// import { firebase_app } from './firebase';
+// import { firebase_app } from './firebase' hello mes people;
+
 
 import firebase from "firebase/app"
 import 'firebase/firestore'
